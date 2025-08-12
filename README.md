@@ -86,7 +86,7 @@ Start the backend:
 node server.js
 ```
 
-Backend will run on: `http://localhost:5000`
+Backend will run on: `http://localhost:4000`
 
 ### **3. Frontend Setup**
 
